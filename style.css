@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+	background-color: #aca1a1;
+}
+
+h3{
+	background-color: rgb(228, 216, 216);
+}
+
+span{
+	font-size: 1.1em;
+	color: rgb(255, 0, 43);
+	font-weight: bold;
+	font-family: Tahoma;
+}
+
+li{
+	font-family: Tahoma;
+}
+
+.column {
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+
+a:hover{
+	color: red;
+}
